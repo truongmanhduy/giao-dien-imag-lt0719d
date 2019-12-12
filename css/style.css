@@ -1,0 +1,49 @@
+body{
+	background-color: #ccc; 
+}
+#box-page{
+	width: 1000px;
+	margin: 0px auto;
+	background-color: cyan;
+}
+#banner-top{
+	background-color: ;
+}
+#main-menu{
+	background-color: #246EB7;
+}
+#main-menu li{
+	float: left;
+	padding-left: 21px;
+	padding-right: 21px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 73px;
+	border: 1px ;
+}
+#active{
+	background: black;
+}
+#main-menu ul{
+	list-style-type: none;
+}
+#main-menu a{
+	text-decoration: none;
+}
+.clr{
+	clear: both;
+}
+#body-page{
+	background-color: yellow;
+}
+#footer-page{
+	background-color: black;
+}
+#main-menu ul li{
+	padding: 25px;
+	margin: 0;
+}
+#main-menu ul li:hover{
+	background: #fff;
+
+}
